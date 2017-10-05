@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6922" started-at="2017-10-05T01:42:23Z" finished-at="2017-10-05T01:42:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6922" started-at="2017-10-05T01:42:23Z" finished-at="2017-10-05T01:42:30Z">
+      <class name="wikitest.TestWiki">
+        <test-method status="PASS" signature="checkWikipagePuppies()[pri:0, instance:wikitest.TestWiki@4e5cd46b]" name="checkWikipagePuppies" duration-ms="1789" started-at="2017-10-04T21:42:23Z" finished-at="2017-10-04T21:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWikipagePuppies -->
+        <test-method status="PASS" signature="hideContents()[pri:1, instance:wikitest.TestWiki@4e5cd46b]" name="hideContents" duration-ms="159" started-at="2017-10-04T21:42:25Z" finished-at="2017-10-04T21:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hideContents -->
+        <test-method status="PASS" signature="autoSearchTest()[pri:2, instance:wikitest.TestWiki@4e5cd46b]" name="autoSearchTest" duration-ms="4942" started-at="2017-10-04T21:42:25Z" finished-at="2017-10-04T21:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoSearchTest -->
+      </class> <!-- wikitest.TestWiki -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
