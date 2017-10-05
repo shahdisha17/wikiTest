@@ -11,3 +11,5 @@ Project to test wiki page with Selenium WebDriver and Test NG-
 7) Type Franc and see the dropdown options
 8) Select France from the dropdown 
 9)Verify wiki page shows details and page for France.
+
+Added code to git -
